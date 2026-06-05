@@ -1,0 +1,27 @@
+﻿# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Models & Data
+*.pt
+*.pth
+*.weights
+Cropped/
+runs/output/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+.temp/
